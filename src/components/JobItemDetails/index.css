@@ -1,0 +1,70 @@
+.job-item-container-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.job-item-container-new {
+  border-radius: 12px;
+  padding: 20px;
+  width: 90%;
+  background-color: #202020;
+}
+.description-container-2 {
+  display: flex;
+  justify-content: space-between;
+}
+.visit-link {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-decoration: none;
+  color: #6366f1;
+  font-size: 17px;
+  font-weight: 500;
+  width: 5%;
+}
+.heading-jobs {
+  font-size: 19px;
+}
+.description-para {
+  font-size: 16px;
+}
+.skills-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.each-skill-item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  width: 30%;
+  margin-bottom: 20px;
+}
+.each-skill-item img {
+  margin-right: 20px;
+}
+.life-at-company-container {
+  display: flex;
+  justify-content: space-between;
+}
+.life-at-company-container p {
+  width: 70%;
+  font-size: 18px;
+  font-family: 'Roboto';
+  line-height: 1.6;
+}
+.similar-jobs-heading {
+  display: flex;
+  width: 90%;
+}
+.similar-jobs-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  padding: 0px;
+}

@@ -1,0 +1,61 @@
+.link-item {
+  text-decoration: none;
+}
+.job-item-container-old {
+  background-color: #202020;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 12px;
+  color: #ffffff;
+}
+.top-section-container {
+  display: flex;
+  align-items: center;
+}
+.top-section-container img {
+  height: 40px;
+  align-self: center;
+  margin-right: 10px;
+}
+.top-section {
+  display: flex;
+  flex-direction: column;
+}
+.top-section h1 {
+  font-size: 17px;
+}
+.top-section h2 {
+  font-size: 13px;
+}
+.top-section div {
+  display: flex;
+  align-items: center;
+}
+.star-icon {
+  color: #fbbf24;
+  margin-right: 10px;
+}
+.location-container {
+  display: flex;
+}
+.location-container-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.location-icon {
+  margin-right: 7px;
+}
+.location-container label {
+  margin-right: 20px;
+}
+.location-container-main h1 {
+  font-size: 14px;
+}
+.description {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.description-para {
+  font-size: 13px;
+}
